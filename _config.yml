@@ -1,5 +1,5 @@
 # Site Settings
-lang: en
+lang: cs
 title: JihoČAS
 tagline: JihoČAS
 email: your-email@domain.com
@@ -54,7 +54,7 @@ sass:
     # - node_modules
 
 #google_analytics: UA-code-here
-cookie_policy: /cookie-policy/
+# cookie_policy: /cookie-policy/
 
 defaults:
   -
