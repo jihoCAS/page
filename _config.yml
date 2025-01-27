@@ -69,12 +69,12 @@ highlighter: rouge
 
 # footer_menu: example_footer_menu
 
-# collections:
-#   products: 
-#     output: true
+collections:
+  products: 
+  output: false
 #     layout: product
 #     image: https://via.placeholder.com/800x600
-#     show_sidebar: false
+    show_sidebar: false
 
 social:
   facebook: https://www.facebook.com/
